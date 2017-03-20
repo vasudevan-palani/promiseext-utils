@@ -1,0 +1,26 @@
+{
+  "name": "promiseext-utils",
+  "version": "0.1.0",
+  "description": "Promise Utilities based of PromiseExt",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasudevan-palani/promiseext-utils.git"
+  },
+  "keywords": [
+    "Promise",
+    "extension",
+    "ext",
+    "utils",
+    "promiseext"
+  ],
+  "author": "Vasudevan PALANI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasudevan-palani/promiseext-utils/issues"
+  },
+  "homepage": "https://github.com/vasudevan-palani/promiseext-utils#readme"
+}
